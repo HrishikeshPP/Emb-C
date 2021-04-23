@@ -1,10 +1,9 @@
-PROJ_NAME = Blinky
+PROJ_NAME = heater
 
 BUILD_DIR = Build
 
 # All Source code files
 SRC = src/main.c\
-src/user_utils.c
 
 # All header file paths
 INC = -I inc
